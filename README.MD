@@ -1,7 +1,7 @@
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) ` This code use serveurs-minecraft.com api !`
 
 
-## Get minecrafr server infos with $_GET request named "ip" or "ip" and "port" if its a custom port 
+## Get minecraft servers infos with $_GET request named "ip" or "ip" and "port" if its a custom port 
 
 
 ```php
