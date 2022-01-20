@@ -39,5 +39,3 @@ echo $favicon // Get favicon of the server
 
 ```
 
-## Live version here : https://arni.fr/mc/
-
